@@ -1,16 +1,23 @@
-## Hi there 👋
+# Kennedy Adah – Squarespace Web Designer & Developer
 
-<!--
-**kenneddy239-Web/kenneddy239-Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m **Kennedy Adah**, a Squarespace specialist and Fluid Engine expert.  
+I build websites that **look great, load fast, rank better, and convert visitors into clients**.
 
-Here are some ideas to get you started:
+## What I Do
+- ✅ Squarespace Web Design & Development  
+- ✅ Fluid Engine Layouts & Customization  
+- ✅ Conversion-focused Design & UX  
+- ✅ SEO & Performance Optimization  
+- ✅ Mobile-first Websites for Businesses  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Here are some examples of what I create:
+-Squarespace Photography Website Development
+- Squarespace Restaurants & Cuisine Website Design  
+- Squarespace Construction Website
+
+## Let’s Connect
+- Upwork:(https://www.upwork.com/freelancers/~016b31f9b73fd3468b)
+- Email: kenneddy239@gmail.com
+
+*I focus on creating websites that help businesses grow online, not just look pretty.*
